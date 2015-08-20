@@ -1,0 +1,13 @@
+/* CSS declarations go here */
+body {
+	padding-top: 50px;
+	background-color: #F5F5F5;
+}
+
+.container {
+	display: block;
+	background-color: #00CC00;
+	text-align: center;
+	color: #ecf0f1;
+}
+
