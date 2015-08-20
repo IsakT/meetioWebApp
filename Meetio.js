@@ -46,7 +46,7 @@ if (Meteor.isClient) {
 
   app.controller('meetioCtrl', ['$scope', '$meteor', function($scope, $meteor) {
 
-    $scope.myVar = "Isak was here";
+    $scope.IsakT = "Isak was here";
 
   }]);
 
